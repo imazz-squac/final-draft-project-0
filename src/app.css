@@ -10,3 +10,7 @@ p {
     height: 100vh;
     overflow: scroll;
 }
+nav {
+    color: crimson;
+    background-color: white;
+}
